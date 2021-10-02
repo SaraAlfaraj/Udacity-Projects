@@ -1,2 +1,2 @@
 # Udacity-Projects
-This projects is part of to Udacity Data Analyst Nanodegree program.
+This projects is part of the Udacity Data Analyst Nanodegree program.
